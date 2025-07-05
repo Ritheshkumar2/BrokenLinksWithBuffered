@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-05T18:33:26 IST" name="Suite" finished-at="2025-07-05T18:34:33 IST" duration-ms="67004">
+  <suite started-at="2025-07-05T18:43:07 IST" name="Suite" finished-at="2025-07-05T18:43:55 IST" duration-ms="48249">
     <groups>
     </groups>
-    <test started-at="2025-07-05T18:33:26 IST" name="Test" finished-at="2025-07-05T18:34:33 IST" duration-ms="67004">
-      <class name="broken.BROKENLinks">
-        <test-method signature="validation()[pri:0, instance:broken.BROKENLinks@481a996b]" started-at="2025-07-05T18:33:26 IST" name="validation" finished-at="2025-07-05T18:34:33 IST" duration-ms="66912" status="PASS">
+    <test started-at="2025-07-05T18:43:07 IST" name="Test" finished-at="2025-07-05T18:43:55 IST" duration-ms="48249">
+      <class name="broken.RunningtheClass">
+        <test-method signature="test()[pri:0, instance:broken.RunningtheClass@39529185]" started-at="2025-07-05T18:43:07 IST" name="test" finished-at="2025-07-05T18:43:55 IST" duration-ms="48191" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validation -->
-      </class> <!-- broken.BROKENLinks -->
+        </test-method> <!-- test -->
+      </class> <!-- broken.RunningtheClass -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
