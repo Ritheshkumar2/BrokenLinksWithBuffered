@@ -44,7 +44,7 @@ public class BROKENLinks {
 	                System.out.println("❌ Broken Link: " + link + " --> " + statusCode + " " + message);
 	                writer.write("Broken Link: " + link + " --> " + statusCode + " " + message + "\n");
 	            } else {
-	                System.out.println("✅ Valid Link: " + links.getText() + " --> " + statusCode + " " + message);
+	                System.out.println("✅ Valid Link: " + link + " --> " + statusCode + " " + message);
 	                writer.write("Broken Link: " + link + " --> " + statusCode + " " + message + "\n");
 	            }
 				
